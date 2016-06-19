@@ -1,5 +1,12 @@
 # Generic DataSet 0.0.1-pre-alpha
 
+* Dependencies
+  * Auxo.Core
+  * Auxo.Access
+  * Auxo.Query
+  * Auxo.Data
+
+-----
 * Data Types
   * JSON
   * XML
@@ -15,7 +22,9 @@
   * Pagination Suport
   * Order Suport
   * Master Detail Suport
+  * Select Suport
 
+-----
 ```delphi
 var
   dataset: TAuxoDataSet;
