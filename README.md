@@ -1,4 +1,4 @@
-# Generic DataSet
+# Generic DataSet 0.0.1-pre-alpha
 
 * Data Types
   * JSON
@@ -15,7 +15,6 @@
   * Pagination Suport
   * Order Suport
   * Master Detail Suport
-  
 
 ```delphi
 var
